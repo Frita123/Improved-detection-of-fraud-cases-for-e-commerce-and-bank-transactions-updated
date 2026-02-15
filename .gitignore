@@ -8,11 +8,11 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-notebooks/*.ipynb
+
 
 *.pkl
 models/
-notebooks/models/
+
 
 # SHAP outputs
 notebooks/shap_outputs/
