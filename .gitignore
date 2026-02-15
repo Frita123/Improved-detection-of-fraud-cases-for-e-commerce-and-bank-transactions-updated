@@ -1,0 +1,42 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+*.pkl
+models/
+notebooks/models/
+
+# SHAP outputs
+notebooks/shap_outputs/
+notebooks/*.png
+notebooks/*.csv
+
+# Models / pickles
+*.pkl
+*.joblib
+
+
+# Data
+data/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+
+# Env vars
+.env
